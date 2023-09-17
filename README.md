@@ -16,7 +16,7 @@ pnpm i
 pnpm run dev
 ```
 **If you want to run the application and need to run the API as well**
-[Link to the api]([https://github.com/MarcosVOS/upload-ia-api])
+[Link to the api](https://github.com/MarcosVOS/upload-ia-api)
 
 ___
 ### 🇧🇷 Projeto desenvolvido durante o Evento NLW da RocketSeact para treinar integração com a openAI com algumas modificações 
@@ -36,5 +36,4 @@ pnpm i
 pnpm run dev
 ```
 **Caso queira executar a aplicação e necessário executar a api também**
-[Link para a api]([https://github.com/MarcosVOS/upload-ia-api])
-![imagem](./docs/images/img.png)
+[Link para a api](https://github.com/MarcosVOS/upload-ia-api)
