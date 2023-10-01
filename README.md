@@ -36,4 +36,4 @@ pnpm i
 pnpm run dev
 ```
 **Caso queira executar a aplicação e necessário executar a api também**
-[Link para a api](https://github.com/MarcosVOS/upload-ia-api)
+![alt text](https://github.com/MarcosVOS/upload-ia-web/blob/main/docs/images/img.png)
